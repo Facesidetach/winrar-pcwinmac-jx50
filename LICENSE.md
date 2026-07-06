@@ -1,4 +1,4 @@
-# 
+# 轻量 WinRAR 扩展 Mac OS版 | 自动 WinRAR 扩展 PC Windows版。集成 数据缓存 和 自启动管理，跨平台性能最大化。
 
 
 
